@@ -1,5 +1,20 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on station 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-05-16T16:53:55.556Z"
+    },
+    {
+      "message": "Wireless network shut down on station 055",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-05-16T16:42:31.027Z",
+      "id": 2
+    }
+  ],
   "techs": [
     {
       "id": 1,
